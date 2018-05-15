@@ -1,0 +1,18 @@
+{
+  "name": "innerTube.Umi",
+  "version": "0.0.0",
+  "scripts": {
+    
+  },
+  "devDependencies": {
+    "cfx.simple-build-tool": "^0.0.12",
+    "ddeyes": "^0.2.1",
+    "umi": "^1.2.6"
+  },
+  "dependencies": {
+    "antd": "^3.3.0",
+    "cfx.react.dom": "^0.0.4",
+    "cfx.redux.redux": "^0.0.3",
+    "cfx.react.link": "^0.0.7"
+  }
+}
